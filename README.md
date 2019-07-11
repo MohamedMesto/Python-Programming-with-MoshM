@@ -10,7 +10,7 @@ http://bit.ly/2Gp80s6
 
 # TABLE OF CONTENT
 
-00:00:00 Introduction
+`00:00:00 Introduction
 00:01:49 Installing Python 3
 00:06:10 Your First Python Program
 00:08:11 How Python Code Gets Executed 
@@ -59,4 +59,4 @@ http://bit.ly/2Gp80s6
 03:50:47 Pypi and Pip
 03:55:34 Project 1: Automation with Python
 04:10:22 Project 2: Machine Learning with Python 
-04:58:37 Project 3: Building a Website with Django 
+04:58:37 Project 3: Building a Website with Django `
