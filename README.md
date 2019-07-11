@@ -6,7 +6,7 @@ Course Content as below metnioned :-
 ----------------------------------
 
 Python Cheat Sheet:
-http://bit.ly/2Gp80s6
+http://bit.ly/2Gp80s6 <a href="http://bit.ly/2Gp80s6" target="_blank">http://bit.ly/2Gp80s6</a>
 
 # TABLE OF CONTENT
 
